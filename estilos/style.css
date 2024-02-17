@@ -163,8 +163,10 @@ main img {
     display: block;
     width: 90%;
     height: 90%;
-    margin: 0% 40% 5% 5%;
+    left: 5%;
+    right: 5%;
     top: 4%;
+    bottom: 4%;
     position:absolute;
 }
 aside {
