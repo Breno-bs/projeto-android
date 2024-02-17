@@ -163,11 +163,12 @@ main img {
     display: block;
     width: 90%;
     height: 90%;
+    position:absolute;
     left: 5%;
     right: 5%;
     top: 4%;
     bottom: 4%;
-    position:absolute;
+    
 }
 aside {
     background-color: var(--cor2);
