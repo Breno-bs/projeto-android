@@ -190,6 +190,12 @@ aside > ul{
 
 }
 footer {
+   
     background-color: var(--cor5);
     color: white;
+}
+footer > p {
+    
+  margin: auto;
+  text-align: center;
 }
